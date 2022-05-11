@@ -51,3 +51,4 @@ public class StringAddCalculator {
         throw new IllegalStateException("Utility class");
     }
 }
+
